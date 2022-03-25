@@ -9,7 +9,9 @@ Submitted by: **Hannah Tiffany**
 
 Time spent: **#** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: 
+Live site: https://coffee-bevel-plaster.glitch.me 
+Code: https://glitch.com/edit/#!/coffee-bevel-plaster
 
 ## Required Functionality
 
@@ -52,7 +54,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [YOUR ANSWER HERE]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+The biggest challenge I encountered during this submission was 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 I have very limited experience with web development, beyond a little PHP and playing around with JavaScript and HTML on my own. I do not have any specific questions, but I am very interested to learn more. I had a lot of fun implementing and teaching myself to understand the code that went into this project and I would like more opportunities to practice web development on my own.
