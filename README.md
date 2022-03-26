@@ -67,7 +67,7 @@ The biggest thing I would like to do is implement the feature that gives the use
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/hWcUtzDJCmI)
 
 
 ## License
